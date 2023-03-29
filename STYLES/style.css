@@ -1,0 +1,18 @@
+body{
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    text-align: center;
+    color: antiquewhite;
+    background-image: url(https://i.etsystatic.com/27589406/r/il/e89960/4148177345/il_fullxfull.4148177345_cw7h.jpg); 
+}
+caption{
+    background-color: rgb(26, 21, 39);
+}
+table{
+    text-align: center;
+    background-color: rgb(26, 21, 39);
+    font-family: 'Phudu', cursive;
+}
+h3{
+    background-color: rgb(26, 21, 39,0.7);
+    
+}
